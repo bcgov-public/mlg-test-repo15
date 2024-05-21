@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mlg-title-test
+  title: mlg title test
+  description: mlg desc test
+  annotations:
+    github.com/project-slug: bcgov/mlg-test-repo15
+    backstage.io/techdocs-ref: dir:.
+    bcgovpubcode.gov.bc.ca/ministry: CITZ
+    developer.gov.bc.ca/source_template: default/docs-template
+    backstage.io/source-template: template:default/docs-template
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: group:bcgov/developer-experience
