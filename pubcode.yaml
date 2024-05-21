@@ -4,7 +4,7 @@ data_management_roles:
 product_information:
   ministry: CITZ
   product_acronym: 
-  product_description: mlg desc test
+  product_description: test descriptio
   product_name: 
 product_technology_information:
   hosting_platforms: Not-Applicable
